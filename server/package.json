@@ -1,14 +1,14 @@
 {
     "name": "JATE",
     "version": "1.0.0",
-    "description": "",
+    "description": "A text editor packaged as a progressive web application.",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"
     },
     "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "author": "Paige",
+    "license": "MIT",
     "dependencies": {
         "express": "^4.17.1"
     },

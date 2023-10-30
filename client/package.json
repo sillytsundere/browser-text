@@ -1,5 +1,7 @@
 {
   "name": "JATE",
+  "version": "1.0.0",
+  "description": "A text editor packaged as a progressive web application.",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
