@@ -6,7 +6,7 @@ This project is a text editor that functions in the browser and offline. This si
 
 ## Installation
 
-To run this application locally, first download the repository and open in your preferred code editor. Run `npm install` to download the necessary npm package dependencies, found in the package.json. This script command also navigates into the client file and runs install; this script can be seen in the package.json file. The necessary dependencies can be found listed in the package.json files. Finally, start the application by running the command `npm run start`. In your browser navigate to the url of the application (http//:localhost:3001) to begin using it.
+To run this application locally, first download the repository and open in your preferred code editor. Run `npm install` to download the necessary npm package dependencies, found in the package.json. The necessary dependencies can be found listed in the package.json. Finally, start the application by running the command `npm run start`.
 
 ## Usage
 
