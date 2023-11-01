@@ -10,7 +10,7 @@ To run this application locally, first download the repository and open in your 
 
 ## Usage
 
-The deployed application can be found [here](). 
+The deployed application can be found [here]().
 
 Type any code block or other notes in the text editor. Any typed content will be saved in the IndexedDB when the window is unfocused or clicked off of. This saved data can be viewed in the browser's dev tools. When you reopen the text editor after closing it, the content in the text editor will be retrieved from the IndexedDB.
 
